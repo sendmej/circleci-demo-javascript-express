@@ -180,7 +180,7 @@ In this version, we enabled the `mern-cli` to clone not only this project but al
 
 5. Add your project details to `variants.json` in the cloned project and send a pull request.
 
-### Modifying Generators
+### Modifying the Generators
 
 #### mern.json
 It contains a blueprints array. Each object in it is the config for a generator. A blueprint config contains the name, description, usage, and files array. An example blueprint config
